@@ -1,1 +1,4 @@
-#
+# this is the commments
+#keep all the thigs here which you do not wanted to move to  your repository
+#ignore allthe .js files
+.js
