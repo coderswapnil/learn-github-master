@@ -1,4 +1,10 @@
 # this is the commments
 #keep all the thigs here which you do not wanted to move to  your repository
 #ignore allthe .js files
-.js
+*.js
+
+#ignore all .js file but keep app.js
+!app.js
+
+#ignore all the videos from asset directory
+/asset/videos/
